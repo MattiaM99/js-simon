@@ -45,5 +45,5 @@ function startGame(){
         content.innerHTML=guess;
       }    
     } 
-  }, 100);
+  }, 1000);
 }
