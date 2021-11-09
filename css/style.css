@@ -1,0 +1,10 @@
+.main-container{
+  height: 100vh;
+}
+
+main-content{
+  color: white;
+  background-color: blue;
+  width: 600px;
+  height: 300px;
+}
